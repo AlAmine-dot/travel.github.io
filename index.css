@@ -2,20 +2,19 @@
 body{
 	background-image: url(travel4.jpg);
 	background-repeat: no-repeat;
-background-size: 100%;
+	background-size: 100%;
 }
-  body{width:100%;}
 /*Navigateur d'entête*/
 li{
 	display: inline-block;
 	text-decoration: none;
-	padding: 15px;
+	padding: 1.5%;
 	color: white;
 	font-color: inherit,serif, sans-serif;
-	font-size: 16px;
+	font-size: 100%;
 }
 span.right{
-	padding-left: 400px;
+	padding-left: 35%;
 }
 /*Navigateur principal*/
 * {
@@ -25,20 +24,20 @@ nav#menu ul {
 	background-color: #333333;
 	list-style: none;
 	margin: 0;
-	padding: 0px;
+	padding: 0;
 	text-align: center;
 	font-family: serif,sans-serif;
 	border-color: white;
-	border-width: 0.5px;
+	border-width: 1px;
 	border-style: solid;
 	border-radius: 2px;
 	border-left: none;
 	border-right: none;
-	margin-top: 10px;
+	margin-top: 1%;
 }
 nav#menu li{
 	display: inline-block;
-	margin: 5px;
+	margin: 1%;
 	padding:0;
 	font-family: serif,sans-serif;
 }
@@ -56,7 +55,7 @@ nav#menu li a:hover {
 /* ss menu */
 nav#menu ul li ul {
 	opacity: 0;
-	margin-left:-20px;
+	margin-left:-5%;
 	visibility: hidden;
 	z-index: 5;
 	transition: all 0.25s ease 0s;
@@ -82,14 +81,14 @@ nav#menu ul li ul {
 a.left-box{
 	color: white;
 	font-color: inherit,serif, sans-serif;
-	font-size: 30px;
+	font-size: 200%;
 	display: inline-block;
 	text-decoration: none;
 	align-items: center;
-	margin-right: 350px;
+	margin-right: 30%;
 	font-family: sans-serif,serif, inherit;
 	letter-spacing: 2px;
-	margin-bottom: 0px;
+	margin-bottom: 0;
 }
 /*Logo animation*/
 *{
