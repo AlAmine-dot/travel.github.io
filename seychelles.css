@@ -103,7 +103,6 @@ div.title{
 	width: 100%;
 	top: 50%;
 	left: 50%;
-margin-top:
 }
 div.title span.text2{
 	display: block;
@@ -262,9 +261,6 @@ img.plageanse{
 .cont:hover {
    animation-play-state:paused;
    -webkit-animation-play-state:paused;
-}
-div.slider{
-margin-top: 25%;
 }
 @-webkit-keyframes slide {
     0% {left:0;}
