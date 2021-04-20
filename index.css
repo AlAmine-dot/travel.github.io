@@ -3,6 +3,7 @@ body{
 	background-image: url(travel4.jpg);
 	background-repeat: no-repeat;
 }
+  body{width:100%;}
 /*Navigateur d'entête*/
 li{
 	display: inline-block;
