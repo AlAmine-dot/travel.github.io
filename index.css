@@ -2,6 +2,7 @@
 body{
 	background-image: url(travel4.jpg);
 	background-repeat: no-repeat;
+background-size: 100%;
 }
   body{width:100%;}
 /*Navigateur d'entête*/
@@ -382,4 +383,7 @@ img.plane{
 }
 img.reseau{
 	margin-right: 15px;
+}
+div.pied{
+	margin-top: -8%;
 }
