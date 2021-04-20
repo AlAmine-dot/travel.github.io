@@ -2,6 +2,7 @@
 body{
 	background-image: url(seychelles.jpg);
 	background-repeat: no-repeat;
+background-size: 100%;
 }
 /*Navigateur d'entête*/
 li{
@@ -102,6 +103,7 @@ div.title{
 	width: 100%;
 	top: 50%;
 	left: 50%;
+margin-top:
 }
 div.title span.text2{
 	display: block;
@@ -223,7 +225,7 @@ iframe{
 img.plageanse{
 	border-radius: 20px;
 }
-/*Slider*/
+/**/
 #slideshow {
     width:300px;
     margin:0 auto;
@@ -261,7 +263,9 @@ img.plageanse{
    animation-play-state:paused;
    -webkit-animation-play-state:paused;
 }
-
+div.slider{
+margin-top: 25%;
+}
 @-webkit-keyframes slide {
     0% {left:0;}
     25% {left:-300px;}
